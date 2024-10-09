@@ -168,28 +168,28 @@
             <table align="center" width="100%">
               <tr>
                 <td align="center">
-                  <a href="">
+                  <a href="https://wa.me/+79999207370?text=Здравствуйте!">
                     <img src="./img/icons/Contacts/whatsapp.png" width="30px" />
                   </a>
                 </td>
               </tr>
               <tr>
                 <td align="center">
-                  <a href="">
+                  <a href="https://vk.com/timurwebvetrov">
                     <img src="./img/icons/Contacts/vk.png" width="30px" />
                   </a>
                 </td>
               </tr>
               <tr>
                 <td align="center">
-                  <a href="https://twitter.com/">
+                  <a href="mailto:timurwebvetrov@gmail.com">
                     <img src="./img/icons/Contacts/gmail.png" width="30px" />
                   </a>
                 </td>
               </tr>
               <tr>
                 <td align="center">
-                  <a href="https://www.instagram.com/">
+                  <a href="tel:+79999207370">
                     <img src="./img/icons/Contacts/phone_rudjosz71r98.png" width="30px" />
                   </a>
                 </td>
